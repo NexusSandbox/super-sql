@@ -12,6 +12,18 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/copyright/
+.idea/encodings.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/super-sql.iml
+.idea/vcs.xml
+.idea/kotlinc.xml
 
 # Generated files
 .idea/**/contentModel.xml
